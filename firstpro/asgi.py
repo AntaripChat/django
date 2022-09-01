@@ -15,5 +15,7 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'firstpro.settings')
 
 application = get_asgi_application()
 
+##------
+
 
 
